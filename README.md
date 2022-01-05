@@ -1,6 +1,8 @@
 # kindle-weather-display
 Server and client software to generate an automated weather report on a Kindle.
 
+Based on: https://mpetroff.net/2012/09/kindle-weather-display/, https://github.com/mpetroff/kindle-weather-display, https://www.youtube.com/watch?v=Oel08SDFyIY, and  https://github.com/yoonsikp/weather-display
+
 Create key pair on AWS, store private key on development computer
 Create an Amazon Linux instance on AWS
 Set permissions of instnace to allow HTTP connections
