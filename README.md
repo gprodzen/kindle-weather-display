@@ -26,3 +26,5 @@ Navigate to http://3.84.117.251/weather-script-output.png from browser
 Ran shell script https://www.cyberciti.biz/faq/run-execute-sh-shell-script/
 
 Added to crontab */1 * * * * /home/ec2-user/weather-script.sh >> /home/ec2-user/crontablog.log 2>&1
+
+Needed to install python-dateutil using pip
