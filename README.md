@@ -17,6 +17,8 @@ Installed pngcrush https://installati.one/centos/7/pngcrush/
 
 Install web server via https://medium.com/@KerrySheldon/ec2-exercise-1-1-host-a-static-webpage-9732b91c78ef
 
+Set up cron job to call script periodically
+
 Navigate to http://3.84.117.251/weather-script-output.png from browser
 
 Ran shell script https://www.cyberciti.biz/faq/run-execute-sh-shell-script/
