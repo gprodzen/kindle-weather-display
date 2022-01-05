@@ -1,0 +1,1 @@
+pscp -i "C:/users/gprod/Downloads/kindlekey.ppk" -P 22 ec2-user@ec2-3-84-117-251.compute-1.amazonaws.com:/home/ec2-user/weather-script-output.png "C:/users/gprod/Desktop/server/" 
